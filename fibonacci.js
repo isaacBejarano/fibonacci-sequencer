@@ -1,4 +1,4 @@
-// lib
+// ALGORITHM
 function fibonacci(value) {
 	let sequence = [0, 1]; // value > 2
 
